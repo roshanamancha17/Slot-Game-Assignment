@@ -2,6 +2,8 @@
 
 ## 🎮 Game Overview
 This is a fully functional, UI-driven 2D slot machine built in Unity (Universal 2D). It demonstrates clean UI hierarchy management, programmatic animation, and structured C# logic. Players can manage a virtual balance, place custom bets, and spin the reels to match symbols for payouts.
+![Slot Machine Gameplay](GamePlay/1.png)
+![Slot Machine Gameplay](GamePlay/2.png)
 
 ## ✨ Core Features & Bonus Additions
 In addition to the core assignment requirements (Winning Logic, RNG, Clean UI), this project includes several creative additions to enhance game feel and player engagement:
