@@ -1,4 +1,5 @@
 # Unity 2D Slot Machine Game
+[Play the Live WebGL Demo Here!](https://roshanamancha17.github.io/Slot-Game-Assignment/Builds/WebGL/index.html)
 
 ## 🎮 Game Overview
 This is a fully functional, UI-driven 2D slot machine built in Unity (Universal 2D). It demonstrates clean UI hierarchy management, programmatic animation, and structured C# logic. Players can manage a virtual balance, place custom bets, and spin the reels to match symbols for payouts.
