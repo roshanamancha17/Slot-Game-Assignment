@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eab6e041b5d77f94ca366434d760b9da, type: 3}
+  m_Name: NewSymbol 27
+  m_EditorClassIdentifier: Assembly-CSharp::SymbolData
+  symbolID: 27
+  symbolSprite: {fileID: 8005562427719311359, guid: 9dc3a294123113142b60d8edbba52ada, type: 3}
+  payoutMultiplier: 27
